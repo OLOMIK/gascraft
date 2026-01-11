@@ -1,0 +1,10 @@
+{
+  "base-adress": "https://gascraft.com.pl/",
+  "latest-version": "dev4",
+  "all-versions": [
+    "dev1",
+    "dev2",
+    "dev3",
+    "dev4"
+  ]
+}
