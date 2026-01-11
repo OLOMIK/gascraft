@@ -1,7 +1,7 @@
 {
   "base-adress": "https://gascraft.com.pl/",
   "latest-version": "dev4",
-  "launcher-latest-version": "2.0",
+  "launcher-latest-version": "2.0.0",
   "all-versions": [
     "dev1",
     "dev2",
